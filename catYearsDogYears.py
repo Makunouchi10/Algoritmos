@@ -1,3 +1,7 @@
+'''
+Programa que calcula la edad de un perro y un gato
+con respecto a los años humanos
+'''
 def calcular_edades(human_years):
     if human_years < 1:
         raise ValueError("humanYears debe ser un número entero mayor o igual a 1")
