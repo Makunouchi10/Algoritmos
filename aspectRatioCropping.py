@@ -1,3 +1,6 @@
+'''
+Se realizo un cambio de tamaño de imagen a 16/9
+'''
 def convertir_a_16_9(resolucion_x, resolucion_y):
     # Verificamos que la altura (Y) sea válida
     if resolucion_y <= 0:
