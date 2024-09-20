@@ -1,3 +1,6 @@
+'''
+calcular angulos de figuras geometricas
+'''
 def tercer_angle(angulo1, angulo2):
     # Sumar los dos ángulos dados
     suma_angulos = angulo1 + angulo2
