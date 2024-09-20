@@ -1,3 +1,6 @@
+'''
+covertidor de dolares a yuanes
+'''
 def convertir_usd_a_cny(dolares):
     tipo_de_cambio = 6.75  # Tipo de cambio de CNY por USD
     yuanes = dolares * tipo_de_cambio
