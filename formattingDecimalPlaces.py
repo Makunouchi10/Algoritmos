@@ -1,3 +1,6 @@
+'''
+Se realizo un redondeo de dos numeros decimales
+'''
 def redondear_a_dos_decimales(numero):
     return round(numero, 2)
 
