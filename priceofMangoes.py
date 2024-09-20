@@ -1,3 +1,6 @@
+'''
+calcular cantidad de mangos gratis
+'''
 def mango(cantidad, precio):
     # Calculamos cuántos grupos de 3 mangos hay
     grupos_de_tres = cantidad // 3
