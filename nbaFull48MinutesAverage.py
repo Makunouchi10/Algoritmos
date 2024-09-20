@@ -1,3 +1,6 @@
+'''
+calcular el tiempo de juego de un jugador de nba
+'''
 def nba_extrap(ppg, mpg):
     if ppg == 0:
         return 0
