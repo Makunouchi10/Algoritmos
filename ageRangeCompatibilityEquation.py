@@ -1,3 +1,6 @@
+'''
+Calcular la edad minima para estar con alguien
+'''
 def calcular_rango_edad(edad):
     if edad <= 14:
         min_edad = int(edad - 0.10 * edad)
