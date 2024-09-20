@@ -1,3 +1,6 @@
+'''
+calcular los litros de agua dependiendo del tiempo
+'''
 import math
 def calcular_litros(time):
     litros = time * 0.5  # Calcula la cantidad de litros
